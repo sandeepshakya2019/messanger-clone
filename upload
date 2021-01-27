@@ -1,0 +1,14 @@
+Description of Webapp
+
+ 1. Technology Used - React and Firebase
+ 2. Firebase is used for the Realtime database communication
+ 3. User can directly send the message by entering their name
+ 4. It store the User Information in the Firebase in JSON Format
+
+Deployment Instructions 
+
+ 1. Directly Fetch the GitHub Repository from the link Also create the firebase config object by creating the project in firebase
+ 2. After fetching the link use the firebase object in the firebase.js and put the folder on your GitHub repository 
+ 3.  Open the Folder in Terminal use the Command `npm i` this will install all the packages that needed
+ 4. use the `npm start` to run on the local server
+ 5. Use the Heroku to fetch the repository from you GitHub account and use the buil
